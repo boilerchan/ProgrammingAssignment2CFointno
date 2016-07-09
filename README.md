@@ -1,3 +1,3 @@
 # ProgrammingAssignment2CFointno
-# This is my Programming Assignment 3 
+# This is my Programming Assignment 2 
 # submission.
